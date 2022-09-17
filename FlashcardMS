@@ -27,7 +27,6 @@ logging.level.org.springframework.jdbc.core.JdbcTemplate=DEBUG
 # ===============================
 # Set here configurations for the database connection
 spring.datasource.url=jdbc:postgresql://localhost:5432/flashcards_flashcards
-spring.datasource.driverClassName=org.postgresql.Driver
 
 # ===============================
 # = JPA / HIBERNATE
